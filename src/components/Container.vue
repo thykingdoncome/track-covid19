@@ -28,7 +28,7 @@
       </div>
       <div class="updated">
         <h3>
-          Time Updated: <em>{{ lastUpdated }}</em>
+          Updated: <em>{{ lastUpdated }}</em>
         </h3>
       </div>
 
@@ -54,7 +54,7 @@
           <h2>{{ countryDetails.deaths }}</h2>
         </div>
         <h3 class="updated">
-          Time Updated: <em>{{ countryDetails.lastUpdated }}</em>
+          Updated: <em>{{ countryDetails.lastUpdated }}</em>
         </h3>
       </div>
     </div>
