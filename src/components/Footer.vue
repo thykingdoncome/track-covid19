@@ -7,7 +7,7 @@
 
     <div>
       <a
-        href="https://github.com/thykingdoncome/Foodie"
+        href="https://github.com/thykingdoncome/track-covid19"
         target="_blank"
         rel="noopener noreferrer"
       >
